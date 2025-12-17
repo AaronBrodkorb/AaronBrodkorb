@@ -17,6 +17,11 @@ Creative projects are my passion.
 
 <p align="left"> <a href="https://www.github.com/AaronBrodkorb/Aaron-Brodkorb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/aaron-brodkorb-492bb8238/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
+![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/IMG_8166.jpg?raw=true)
+![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/IMG_2390.JPG?raw=true)
 ![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20220721.png?raw=true)
-![image alt]()
-![image alt]()
+![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20221157.png?raw=true)
+![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/NINTCHDBPICT000422776585%20(4).png?raw=true)
+![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/the%20geec.jpg?raw=true)
+
+
