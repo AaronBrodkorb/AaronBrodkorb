@@ -8,6 +8,7 @@ Creative projects are my passion.
 * 🌍  I'm based in Ireland
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/aaron-brodkorb-492bb8238/)
 * ✉️  You can contact me at [aaronbrodkorb@gmail.com](mailto:aaronbrodkorb@gmail.com)
+* 🚀  I'm currently working on [The Geec - Galway energy efficient car](http://thegeec.ie/)
 * 🧠  I'm currently learning CoppeliaSim
 * 👥  I'm looking to collaborate on CAD / Simulation & Optimisation
 
