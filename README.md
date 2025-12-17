@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Aaron
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aaron
 ==============================================================================================================================
 
 I am a mechanical engineering student with hands-on experience in next-generation battery production at BMW headquarters in Munich and a proven track record in process engineering, safety management, and data analysis.
