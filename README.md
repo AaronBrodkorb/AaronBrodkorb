@@ -11,7 +11,7 @@ Creative projects are my passion.
 * 🚀  I'm currently working on [The Geec - Galway energy efficient car](http://thegeec.ie/)
 * 🧠  I'm currently learning CoppeliaSim
 * 👥  I'm looking to collaborate on CAD / Simulation & Optimisation
-* ✉️  Curriculum Vitae [[Report](./7.0%20CV-AaronBrodkorb.pdf)]
+* 📂 [Curriculum Vitae](./7.0%20CV-AaronBrodkorb.pdf)
 
 ### Socials
 
