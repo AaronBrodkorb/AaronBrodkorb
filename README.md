@@ -25,7 +25,7 @@ Intern - Process Planning Final Assembly, Test Planning - BMW Group
 - One of 300 BMW employees across the US and Germany to participate in the pilot phase of Microsoft Copilot, successfully completing 'Advanced Training'.
 
   <img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/IMG_8166.jpg?raw=true" alt="Alt Text" width="425" height="275">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFo1gPMjb-7KQ/feedshare-shrink_2048_1536/B4DZsW.u5ILsA0-/0/1765617103293?e=1767830400&v=beta&t=WVp-ilIq2BkLVJiuDVjMDO48zpiam-23uDJjCk9glTI" alt="Alt Text" width="465" height="315">
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFo1gPMjb-7KQ/feedshare-shrink_2048_1536/B4DZsW.u5ILsA0-/0/1765617103293?e=1767830400&v=beta&t=WVp-ilIq2BkLVJiuDVjMDO48zpiam-23uDJjCk9glTI" alt="Alt Text" width="465" height="330">
 
 Proficient in Autodesk Inventor. Experience with SolidWorks & Onshape.
 Example of part and prosthetic leg assembly made using Inventor:
