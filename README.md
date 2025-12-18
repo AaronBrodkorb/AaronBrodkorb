@@ -46,4 +46,7 @@ Acquired practical experience by collaborating with engineering students from va
 <img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/NINTCHDBPICT000422776585%20(4).png?raw=true" alt="Alt Text" width="300" height="200">
 <img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/the%20geec.jpg?raw=true" alt="Alt Text" width="450" height="300">
 
+Finite Element Analysis - Proficient in Abaqus
+<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-11-14%20203703.png?raw=true" alt="Alt Text" width="400" height="245">
+<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Mises%20(Scale=10)2.png?raw=true" alt="Alt Text" width="400" height="245">
 
