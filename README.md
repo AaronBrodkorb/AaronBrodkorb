@@ -29,7 +29,7 @@ Intern - Process Planning Final Assembly, Test Planning - BMW Group
 
 Proficient in Autodesk Inventor. Experience with SolidWorks & Onshape.
 Example of part and prosthetic leg assembly made using Inventor:
-<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20220721.png?raw=true" alt="Alt Text" width="425" height="275">
+<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20220721.png?raw=true" alt="Alt Text" width="425" height="285">
 <img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20221157.png?raw=true" alt="Alt Text" width="185" height="465">
 
 
