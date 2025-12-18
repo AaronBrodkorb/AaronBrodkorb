@@ -48,6 +48,6 @@ Acquired practical experience by collaborating with engineering students from va
 
 Finite Element Analysis - Proficient in Abaqus
 
-<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-11-14%20203703.png?raw=true" alt="Alt Text" width="500" height="350">
-<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Mises%20(Scale=10)2.png?raw=true" alt="Alt Text" width="200" height="150">
+<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-11-14%20203703.png?raw=true" alt="Alt Text" width="450" height="350">
+<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Mises%20(Scale=10)2.png?raw=true" alt="Alt Text" width="220" height="150">
 
