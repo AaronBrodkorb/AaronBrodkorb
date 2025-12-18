@@ -29,7 +29,7 @@ Intern - Process Planning Final Assembly, Test Planning - BMW Group
 
 Proficient in Autodesk Inventor. Experience with SolidWorks & Onshape.
 Example of part and prosthetic leg assembly made using Inventor:
-<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20220721.png?raw=true" alt="Alt Text" width="450" height="300">
+<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20220721.png?raw=true" alt="Alt Text" width="425" height="227">
 <img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20221157.png?raw=true" alt="Alt Text" width="185" height="465">
 
 
@@ -37,7 +37,7 @@ Marketing Manager with the Geec (Galway energy efficient car),
 Ireland's most energy-efficient car, which competes annually in the Shell Eco-Marathon against teams from universities across Europe and North Africa. 
 Served as the head of safety and marketing manager for the project.
 Aquired practical experience by collaborating with engineering students from various disciplines on a wide range of GEEC components.
-<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/NINTCHDBPICT000422776585%20(4).png?raw=true" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/NINTCHDBPICT000422776585%20(4).png?raw=true" alt="Alt Text" width="300" height="195">
 <img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/the%20geec.jpg?raw=true" alt="Alt Text" width="450" height="300">
 
 
