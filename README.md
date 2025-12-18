@@ -28,7 +28,7 @@ BMW Group
 ![image alt](https://media.licdn.com/dms/image/v2/D4D22AQFo1gPMjb-7KQ/feedshare-shrink_2048_1536/B4DZsW.u5ILsA0-/0/1765617103293?e=1767830400&v=beta&t=WVp-ilIq2BkLVJiuDVjMDO48zpiam-23uDJjCk9glTI)
 
 Proficient in Autodesk Inventor. Experience with SolidWorks & Onshape.
-Example of part and prosthetic leg assembly made using Autodesk Inventor:
+Example of part and prosthetic leg assembly made using Inventor:
 ![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20220721.png?raw=true)
 ![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/Screenshot%202025-12-17%20221157.png?raw=true)
 
