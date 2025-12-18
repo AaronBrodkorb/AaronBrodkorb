@@ -24,6 +24,7 @@ Intern - Process Planning Final Assembly, Test Planning - BMW Group
 - Conducted research and presented AI solutions, best practices, and tips to my department on a weekly basis after. 
 - One of 300 BMW employees across the US and Germany to participate in the pilot phase of Microsoft Copilot, successfully completing 'Advanced Training'.
 - 
+  <img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/IMG_8166.jpg?raw=true" alt="Alt Text" width="300" height="10">
   <img src="https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/IMG_8166.jpg?raw=true" alt="Alt Text" width="300" height="200">
 
 ![image alt](https://github.com/AaronBrodkorb/AaronBrodkorb/blob/main/IMG_8166.jpg?raw=true)
