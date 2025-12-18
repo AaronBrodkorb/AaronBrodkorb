@@ -18,8 +18,7 @@ Creative projects are my passion.
 
 <p align="left"> <a href="https://www.github.com/AaronBrodkorb/Aaron-Brodkorb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/aaron-brodkorb-492bb8238/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-Intern - Process Planning Final Assembly, Test Planning
-BMW Group
+Intern - Process Planning Final Assembly, Test Planning - BMW Group
 - Theorised, organised, and carried out tests on automated stations in the 'reference' production line for the new Gen-6 EV battery modules. 
 - Analysed, compiled, and presented data using Vision Tools software, Excel, and PowerPoint in order to identify and minimise not-o.k. scans. Collaborated with software developers to test and fix issues on a new    software platform. 
 - Conducted research and presented AI solutions, best practices, and tips to my department on a weekly basis after. 
